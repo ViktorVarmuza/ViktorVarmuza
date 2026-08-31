@@ -24,12 +24,6 @@
   <img src="https://www.gitskins.com/api/section/heatmap?username=viktorvarmuza&theme=github-dark" alt="viktorvarmuza contribution activity" />
 </p>
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=viktorvarmuza&theme=github-dark" alt="viktorvarmuza social links" />
-</p>
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viktorvarmuza)
 
 ---
